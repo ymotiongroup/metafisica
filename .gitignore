@@ -1,0 +1,9 @@
+puphpet/config-custom.yaml
+Vagrantfile
+.ftpconfig
+.gitattributes
+.vagrant/
+awesome/
+.htacess
+*.php
+puphpet/*.

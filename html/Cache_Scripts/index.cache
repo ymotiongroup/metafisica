@@ -1,0 +1,47 @@
+CACHE MANIFEST
+# v1.4
+
+http://www.metafisicaactiva.com/Logo/horscopo.png
+http://www.metafisicaactiva.com/Logo/tarot_icon.png
+http://www.metafisicaactiva.com/Logo/liberaciones_icon.png
+http://www.metafisicaactiva.com/Logo/proceso-de-sanacion-icon.png
+http://www.metafisicaactiva.com/icon.png
+http://www.metafisicaactiva.com/Logo/itunes_icon.png
+http://www.metafisicaactiva.com/Logo/escuela_icon.png
+http://www.metafisicaactiva.com/Logo/shop_icon.png
+http://www.metafisicaactiva.com/Logo/logo_pqn.png
+http://www.metafisicaactiva.com/Logo/monje-himalaya.jpg
+http://www.metafisicaactiva.com/Logo/happy5.jpg
+http://www.metafisicaactiva.com/lecturaTrot.jpg
+http://www.metafisicaactiva.com/Logo/happy3.jpg
+http://www.metafisicaactiva.com/Logo/image-happy-person.jpg
+http://www.metafisicaactiva.com/Logo/armonizaciones.jpg
+http://www.metafisicaactiva.com/Logo/school.jpg
+http://www.metafisicaactiva.com/Logo/shopping-online.jpg
+http://www.metafisicaactiva.com/Logo/tablet-computing.jpg
+http://www.metafisicaactiva.com/Logo/tt-people-02.jpg
+http://www.metafisicaactiva.com/Logo/facebook.png
+http://www.metafisicaactiva.com/Logo/twitter.png
+http://www.metafisicaactiva.com/Logo/skype.png
+http://www.metafisicaactiva.com/Logo/whatsapp.png
+http://www.metafisicaactiva.com/Logo/phone-icon.png
+http://www.metafisicaactiva.com/Logo/horoscopoc_womna.jpg
+http://www.metafisicaactiva.com/Logo/happy1.jpg
+http://www.metafisicaactiva.com/Logo/happy4.jpg
+http://www.metafisicaactiva.com/Logo/happy6.jpg
+http://www.metafisicaactiva.com/musica/[Chillout]%20-%20Direct%20-%20Memory%20(feat.%20Holly%20Drummond)%20[Monstercat%20Release].lite.mp3
+http://www.metafisicaactiva.com/musica/[EDM]%20-%20Mr%20FijiWiji,%20Laura%20Brehm%20&%20AgNO3%20-%20Pure%20Sunlight%20[Monstercat%20Release].lite.mp3
+http://www.metafisicaactiva.com/musica/[EDM]%20-%20Stephen%20Walking%20-%20Shark%20City%20[Monstercat%20Release].lite.mp3
+http://www.metafisicaactiva.com/Logo/happy2.jpg
+http://www.metafisicaactiva.com/Logo/show-menu-icon.png
+http://www.metafisicaactiva.com/Logo/android.png
+http://www.metafisicaactiva.com/Logo/appstore.png
+http://www.metafisicaactiva.com/Logo/logo_50x49.png
+
+# Usar desde la red si está disponible
+NETWORK:
+http://www.metafisicaactiva.com/index.php
+
+# Contenido de fallback
+FALLBACK:
+http://www.metafisicaactiva.com/index.php

@@ -1,0 +1,39 @@
+CACHE MANIFEST
+# v1.1
+http://www.metafisicaactiva.com/Meditaciones.php
+http://www.metafisicaactiva.com/Logo/meditacion_favicon.png
+http://www.metafisicaactiva.com/Logo/logo_pqn.png
+http://www.metafisicaactiva.com/Logo/meditation2.jpg
+http://www.metafisicaactiva.com/Logo/meditation1.png
+http://www.metafisicaactiva.com/Logo/meditation/stock-man-meditating-beach-quiet-stillness-4c9u.jpg
+http://www.metafisicaactiva.com/Logo/meditation/Meditation_2440365b.jpg
+http://www.metafisicaactiva.com/Logo/meditation/How-meditation-can-relieve-depression-symptoms.jpg
+http://www.metafisicaactiva.com/Logo/earphones.jpg
+http://www.metafisicaactiva.com/Logo/listen1.jpg
+http://www.metafisicaactiva.com/Logo/conciencia.jpg
+http://www.metafisicaactiva.com/Logo/recovery-time.jpg
+http://www.metafisicaactiva.com/Logo/abundancia.jpg
+http://www.metafisicaactiva.com/Logo/dinero-abundancia.jpg
+http://www.metafisicaactiva.com/Logo/dollars.jpg
+http://www.metafisicaactiva.com/Logo/sleeping-couple.jpg
+http://www.metafisicaactiva.com/Logo/calidad-de-vida.jpg
+http://www.metafisicaactiva.com/Logo/play_btn_youtube.png
+http://www.metafisicaactiva.com/fonts/theleagueof-raleway-40afd9d/Raleway%20Thin.otf
+http://www.metafisicaactiva.com/Logo/mouse_icon.png
+
+
+
+# Usar desde la red si está disponible
+NETWORK:
+http://www.metafisicaactiva.com/Meditaciones.php
+http://www.metafisicaactiva.com/musica/meditaciones/Limpiadoras/LimpiaBloqueos.mp3
+http://www.metafisicaactiva.com/musica/meditacion_tomar_conciencia.mp3
+http://www.metafisicaactiva.com/musica/Increase Your Muscle Growth and Muscle Recovery Subliminal _ Binaural Beat.mp3
+http://www.metafisicaactiva.com/musica/Meditacio%CC%81n_guiada_para_La_Prosperidad..mp3
+http://www.metafisicaactiva.com/musica/Hipnosis_Atraer_Dinero.mp3
+http://www.metafisicaactiva.com/musica/Meditacion_para_Dormir.mp3
+http://www.metafisicaactiva.com/musica/Sanacion_medicos_de_luz.mp3
+
+# Contenido de fallback
+FALLBACK:
+http://www.metafisicaactiva.com
