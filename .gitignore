@@ -1,9 +1,50 @@
-puphpet/config-custom.yaml
-Vagrantfile
+### Vagrant ###
+.vagrant/
+
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+#Vbox Files
+html/puphpet/config-custom.yaml
+html/Vagrantfile
 .ftpconfig
 .gitattributes
-.vagrant/
-awesome/
-.htacess
-*.php
-puphpet/*.
+html/awesome/
+html/*.htaccess
+html/*.php
+html/puphpet/
+html/*.xml
+html/robots.txt
+html/*.codekit
+html/sass/sass-cache
+
+#dependecies files
+Thumbs.db
+npm-debug.log
+html/bower_components
+html/node_modules
+html/vendor
