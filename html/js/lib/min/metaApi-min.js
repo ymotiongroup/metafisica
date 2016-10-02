@@ -1,0 +1,1 @@
+define(["jquery"],function($){var n={con:function(){console.log("aqui desde modulo")}};return n});

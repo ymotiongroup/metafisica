@@ -1,0 +1,1 @@
+define(["jquery","metaApi","metaCore"],function($,e,i){i.init(),e.con()});
