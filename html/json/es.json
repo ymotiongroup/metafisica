@@ -1,21 +1,19 @@
 {
   "banner":[
     {
-      "info":"Disfruta de cada Momento",
-      "button":"Mas Info",
-      "line_1":"* Liberate de tus Ataduras",
-      "line_2":"* Libera tus Apegos"
+      "info":"Libera tus Emociones",
+      "button":"Mas Info"
     },
     {
       "info":"Armoniza tu Entorno",
       "button":"Mas Info"
     },
     {
-      "info":"Alcanza tus Objetivos",
+      "info":"Protege tu Futuro",
       "button":"Mas Info"
     },
     {
-      "info":"Vive tu vida al Maximo",
+      "info":"Recupera tu Salud",
       "button":"Mas Info"
     }
   ]

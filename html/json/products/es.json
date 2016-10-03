@@ -1,0 +1,60 @@
+{
+  "products":{
+    "Armonizaciones":[
+      {
+        "src":"/Logo/armonizaciones/1.jpg",
+        "desc":"Vela Armomatica Abre Caminos",
+        "precio":"$ 100.00"
+      },
+      {
+        "src":"/Logo/armonizaciones/1.jpg",
+        "desc":"Vela Armomatica Abre Caminos",
+        "precio":"$ 100.00"
+      },
+      {
+        "src":"/Logo/armonizaciones/1.jpg",
+        "desc":"Vela Armomatica Abre Caminos",
+        "precio":"$ 100.00"
+      },
+      {
+        "src":"/Logo/armonizaciones/1.jpg",
+        "desc":"Vela Armomatica Abre Caminos",
+        "precio":"$ 100.00"
+      },
+      {
+        "src":"/Logo/armonizaciones/1.jpg",
+        "desc":"Vela Armomatica Abre Caminos",
+        "precio":"$ 100.00"
+      },
+      {
+        "src":"/Logo/armonizaciones/1.jpg",
+        "desc":"Vela Armomatica Abre Caminos",
+        "precio":"$ 100.00"
+      }
+    ],
+    "Liberaciones":[
+
+    ],
+    "Protecciones":[
+
+    ],
+    "Sanacion":[
+
+    ]
+  },
+  "text":"Comprar",
+  "sections":[
+    {
+      "text":"Lo mas Vendido Armonizaciones"
+    },
+    {
+      "text":"Lo mas Vendido Liberaciones"
+    },
+    {
+      "text":"Lo mas Vendido Protecciones"
+    },
+    {
+      "text":"Lo mas Vendido Sanaciones"
+    }
+  ]
+}

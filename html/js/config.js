@@ -1,14 +1,14 @@
 // config file
-requirejs.config({
+require.config({
   baseUrl: 'js',
   paths: {
      jquery: 'lib/jquery.min',
      metaCore: 'lib/min/functions-min',
-     metaApi: 'lib/min/metaApi-min'
+     metaApi: 'lib/metaApi'
   }
 });
 
 // starting
 require(['config'],function(){
-  require(['min/init-min'])
+  require(['init'])
 });

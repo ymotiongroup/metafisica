@@ -1,4 +1,5 @@
 define(['jquery','metaApi','metaCore'],function($,meta,func){
    func.init();
-   meta.con();
+   meta.languaje();
+   meta.event_click('.banner','p');
 });
